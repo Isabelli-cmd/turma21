@@ -21,7 +21,7 @@ public class Tarefa3 {
 			System.out.println("Adulto");
 		}
 		else {
-			System.out.println("Categoria Invalida!");
+			System.out.println("Sua idade está em outra categoria!");
 		}
 				
 	}
